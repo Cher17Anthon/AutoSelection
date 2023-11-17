@@ -11813,5 +11813,5 @@ body.blocked {
 
 .text-black-50:hover {
   color: black;
-  transition: color 2s ease;
+  transition: color 1.5s ease;
 }
